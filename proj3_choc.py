@@ -14,7 +14,7 @@ def process_command(command):
 
 
 def load_help_text():
-    with open('help.txt') as f:
+    with open('Proj3Help.txt') as f:
         return f.read()
 
 # Part 2 & 3: Implement interactive prompt and plotting. We've started for you!
